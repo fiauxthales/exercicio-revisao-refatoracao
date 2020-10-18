@@ -7,3 +7,5 @@ Você deve criar uma cópia local desse repositório, fazer as alterações que 
 No seu pull request faça uma lista/descrição detalhada das possíveis soluções que você utilizou.
   
 Dica: Utilize o catálogo com sugestões de refatoração (https://refactoring.com/catalog/).
+
+[![Run on Repl.it](https://repl.it/badge/github/fiauxthales/exercicio-revisao-refatoracao)](https://repl.it/github/fiauxthales/exercicio-revisao-refatoracao)
